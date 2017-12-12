@@ -1,0 +1,11 @@
+c:\users\hmcbride\source\repos\Solution1\styleGuide\bin\Debug\netcoreapp2.0\styleGuide.deps.json
+c:\users\hmcbride\source\repos\Solution1\styleGuide\bin\Debug\netcoreapp2.0\styleGuide.runtimeconfig.json
+c:\users\hmcbride\source\repos\Solution1\styleGuide\bin\Debug\netcoreapp2.0\styleGuide.runtimeconfig.dev.json
+c:\users\hmcbride\source\repos\Solution1\styleGuide\bin\Debug\netcoreapp2.0\styleGuide.dll
+c:\users\hmcbride\source\repos\Solution1\styleGuide\bin\Debug\netcoreapp2.0\styleGuide.pdb
+c:\users\hmcbride\source\repos\Solution1\styleGuide\obj\Debug\netcoreapp2.0\styleGuide.csprojResolveAssemblyReference.cache
+c:\users\hmcbride\source\repos\Solution1\styleGuide\obj\Debug\netcoreapp2.0\styleGuide.csproj.CoreCompileInputs.cache
+c:\users\hmcbride\source\repos\Solution1\styleGuide\obj\Debug\netcoreapp2.0\styleGuide.AssemblyInfoInputs.cache
+c:\users\hmcbride\source\repos\Solution1\styleGuide\obj\Debug\netcoreapp2.0\styleGuide.AssemblyInfo.cs
+c:\users\hmcbride\source\repos\Solution1\styleGuide\obj\Debug\netcoreapp2.0\styleGuide.dll
+c:\users\hmcbride\source\repos\Solution1\styleGuide\obj\Debug\netcoreapp2.0\styleGuide.pdb
